@@ -1,5 +1,1 @@
-config.py
-*.pem
-*.key
-secrets/
-.env
+
